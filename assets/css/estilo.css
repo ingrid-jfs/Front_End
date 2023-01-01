@@ -11,7 +11,6 @@ body {
 }
 
 /* NAV BAR */
-
 /*nav-container*/ 
 .container-fluid{
     width: 100%;
@@ -32,7 +31,7 @@ body {
 }
 
 /*redes-container*/
-.list-group list-group-horizontal {
+.list-group list-group-horizontal{
     width: 50%;
     display: flex;   
     justify-content: flex-end;
@@ -139,7 +138,6 @@ p {
     width: 100%;
 }
 
-
 /* FORMACION ACADEMICCA, CURSOS Y HABILIDAD */
 
 .cursos-container, .formacion-container, .vol-container, .habilidad-container {
@@ -214,7 +212,7 @@ p {
 }
 
 /* PROYECTOS */
-.proyectos-container {
+/*.proyectos-container {
     background-color: transparent;
 }
 
@@ -276,7 +274,7 @@ p {
 
 .imagen-card {
     width: 200px;
-}
+}*/
 
 /* FOOTER */
 footer {
